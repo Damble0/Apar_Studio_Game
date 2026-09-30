@@ -7,3 +7,5 @@
 [node name="Icon" type="Sprite2D" parent="." unique_id=1100816606]
 position = Vector2(705, 383)
 texture = ExtResource("1_gsv4j")
+
+[node name="Camera2D" type="Camera2D" parent="." unique_id=536440012]
