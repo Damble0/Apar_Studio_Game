@@ -11,6 +11,7 @@ config_version=5
 [application]
 
 config/name="Nightmare_Playtime"
+run/main_scene="uid://by61lnw8ma5ts"
 config/features=PackedStringArray("4.7", "Forward Plus")
 config/icon="res://Asset/icon.svg"
 

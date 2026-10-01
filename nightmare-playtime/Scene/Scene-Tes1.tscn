@@ -1,6 +1,7 @@
 [gd_scene format=3 uid="uid://by61lnw8ma5ts"]
 
 [ext_resource type="Texture2D" uid="uid://boprv5nh72wjm" path="res://Asset/icon.svg" id="1_gsv4j"]
+[ext_resource type="Texture2D" uid="uid://douq571mgpfyv" path="res://Asset/back.png" id="2_73xbs"]
 
 [node name="Node2D" type="Node2D" unique_id=1518433512]
 
@@ -9,3 +10,8 @@ position = Vector2(705, 383)
 texture = ExtResource("1_gsv4j")
 
 [node name="Camera2D" type="Camera2D" parent="." unique_id=536440012]
+
+[node name="Back" type="Sprite2D" parent="." unique_id=1741343843]
+position = Vector2(-0.34375, 0)
+scale = Vector2(2.1545563, 1.7055628)
+texture = ExtResource("2_73xbs")
