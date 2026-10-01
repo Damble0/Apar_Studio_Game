@@ -17,7 +17,7 @@ position = Vector2(-0.34375, 0)
 scale = Vector2(2.1545563, 1.7055628)
 texture = ExtResource("2_73xbs")
 
-[node name="Fnaf" type="Sprite2D" parent="." unique_id=1200950510]
-position = Vector2(8, -13)
-scale = Vector2(4.78125, 3.493827)
+[node name="Fnaf" type="Sprite2D" parent="Back" unique_id=1200950510]
+position = Vector2(3.8726072, -7.622117)
+scale = Vector2(2.2191346, 2.048489)
 texture = ExtResource("3_l16aq")
