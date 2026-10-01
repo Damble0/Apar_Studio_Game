@@ -2,6 +2,7 @@
 
 [ext_resource type="Texture2D" uid="uid://boprv5nh72wjm" path="res://Asset/icon.svg" id="1_gsv4j"]
 [ext_resource type="Texture2D" uid="uid://douq571mgpfyv" path="res://Asset/back.png" id="2_73xbs"]
+[ext_resource type="Texture2D" uid="uid://ojgiplwnwpky" path="res://Asset/fnaf.jpg" id="3_l16aq"]
 
 [node name="Node2D" type="Node2D" unique_id=1518433512]
 
@@ -15,3 +16,8 @@ texture = ExtResource("1_gsv4j")
 position = Vector2(-0.34375, 0)
 scale = Vector2(2.1545563, 1.7055628)
 texture = ExtResource("2_73xbs")
+
+[node name="Fnaf" type="Sprite2D" parent="." unique_id=1200950510]
+position = Vector2(8, -13)
+scale = Vector2(4.78125, 3.493827)
+texture = ExtResource("3_l16aq")
