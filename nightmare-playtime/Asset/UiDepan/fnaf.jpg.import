@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ojgiplwnwpky"
-path="res://.godot/imported/fnaf.jpg-a23089b0c8378f100e74ee12476f81cd.ctex"
+path="res://.godot/imported/fnaf.jpg-c142253e3eb23ef6bcea6598d397a4e8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Asset/fnaf.jpg"
-dest_files=["res://.godot/imported/fnaf.jpg-a23089b0c8378f100e74ee12476f81cd.ctex"]
+source_file="res://Asset/UiDepan/fnaf.jpg"
+dest_files=["res://.godot/imported/fnaf.jpg-c142253e3eb23ef6bcea6598d397a4e8.ctex"]
 
 [params]
 

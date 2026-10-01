@@ -1,0 +1,33 @@
+[gd_scene format=3 uid="uid://by61lnw8ma5ts"]
+
+[ext_resource type="Texture2D" uid="uid://boprv5nh72wjm" path="res://Asset/icon.svg" id="1_cdoic"]
+[ext_resource type="Texture2D" uid="uid://ojgiplwnwpky" path="res://Asset/UiDepan/fnaf.jpg" id="2_qw5te"]
+[ext_resource type="Texture2D" uid="uid://douq571mgpfyv" path="res://Asset/back.png" id="3_8ncyl"]
+[ext_resource type="Texture2D" uid="uid://bbsxp0frm8t8n" path="res://Asset/Back and front.png" id="4_qw5te"]
+
+[node name="Thegame" type="Node2D" unique_id=1518433512]
+
+[node name="Icon" type="Sprite2D" parent="." unique_id=1100816606]
+position = Vector2(705, 383)
+texture = ExtResource("1_cdoic")
+
+[node name="Camera2D" type="Camera2D" parent="." unique_id=536440012]
+
+[node name="DepandanBelakang" type="Node" parent="." unique_id=1902862806]
+
+[node name="Back" type="Sprite2D" parent="DepandanBelakang" unique_id=1741343843]
+position = Vector2(-0.34375, 0)
+scale = Vector2(2.1545563, 1.7055628)
+texture = ExtResource("3_8ncyl")
+
+[node name="Fnaf" type="Sprite2D" parent="DepandanBelakang" unique_id=1200950510]
+position = Vector2(8, -12.999999)
+scale = Vector2(4.7812505, 3.4938269)
+texture = ExtResource("2_qw5te")
+
+[node name="Button" type="Button" parent="DepandanBelakang" unique_id=1992421824]
+offset_left = -421.0
+offset_top = 426.0
+offset_right = 307.0
+offset_bottom = 559.0
+icon = ExtResource("4_qw5te")
