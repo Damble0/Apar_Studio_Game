@@ -21,13 +21,13 @@ scale = Vector2(2.1545563, 1.7055628)
 texture = ExtResource("3_8ncyl")
 
 [node name="Fnaf" type="Sprite2D" parent="DepandanBelakang" unique_id=1200950510]
-position = Vector2(8, -12.999999)
+position = Vector2(-49, -360)
 scale = Vector2(4.7812505, 3.4938269)
 texture = ExtResource("2_qw5te")
 
 [node name="Button" type="Button" parent="DepandanBelakang" unique_id=1992421824]
-offset_left = -421.0
-offset_top = 426.0
-offset_right = 307.0
-offset_bottom = 559.0
+offset_left = -384.0
+offset_top = -315.0
+offset_right = 344.0
+offset_bottom = -182.0
 icon = ExtResource("4_qw5te")
