@@ -1,0 +1,10 @@
+[gd_scene format=3 uid="uid://dttum3wlpjmge"]
+
+[ext_resource type="Texture2D" uid="uid://bjoavrvvak6ck" path="res://Asset/UiBelakang/Gameboy_Platformer/gameboy.webp" id="1_w3dvs"]
+
+[node name="Gameboy" type="Node2D" unique_id=1173849503]
+
+[node name="Gameboy" type="Sprite2D" parent="." unique_id=997615827]
+position = Vector2(558, 636)
+scale = Vector2(1.5368958, 1.2060907)
+texture = ExtResource("1_w3dvs")

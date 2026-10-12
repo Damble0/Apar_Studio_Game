@@ -1,0 +1,10 @@
+[gd_scene format=3 uid="uid://btrpyuprygcg3"]
+
+[ext_resource type="Texture2D" uid="uid://douq571mgpfyv" path="res://Asset/UiBelakang/back.png" id="1_iyjsm"]
+
+[node name="Belakang" type="Node2D" unique_id=1986646096]
+
+[node name="Back" type="Sprite2D" parent="." unique_id=600783753]
+position = Vector2(577.99994, 335)
+scale = Vector2(2.1869156, 1.71867)
+texture = ExtResource("1_iyjsm")

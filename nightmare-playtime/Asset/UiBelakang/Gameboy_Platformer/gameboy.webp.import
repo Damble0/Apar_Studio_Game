@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://douq571mgpfyv"
-path="res://.godot/imported/back.png-35491a1dbd27584f497028ee93694310.ctex"
+uid="uid://bjoavrvvak6ck"
+path="res://.godot/imported/gameboy.webp-92f2b5e16779a4ad2c73b948b631a319.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Asset/back.png"
-dest_files=["res://.godot/imported/back.png-35491a1dbd27584f497028ee93694310.ctex"]
+source_file="res://Asset/UiBelakang/Gameboy_Platformer/gameboy.webp"
+dest_files=["res://.godot/imported/gameboy.webp-92f2b5e16779a4ad2c73b948b631a319.ctex"]
 
 [params]
 
